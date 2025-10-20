@@ -1,0 +1,23 @@
+{
+  "name": "lemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmol/lemonade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elmol/lemonade/issues"
+  },
+  "homepage": "https://github.com/elmol/lemonade#readme",
+  "dependencies": {
+    "@lemonatio/mini-app-sdk": "^0.1.1"
+  }
+}
